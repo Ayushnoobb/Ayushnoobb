@@ -107,7 +107,7 @@
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40" style="display: inline-block;">&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" style="display: inline-block;">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://picperf.io/https://laravelnews.s3.amazonaws.com/images/laravel-featured.png?inspect=1" alt="Laravel" width="40" height="40" style="display: inline-block;">&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" style="display: inline-block;">&nbsp;&nbsp;&nbsp;&nbsp;
